@@ -1,0 +1,10 @@
+img {
+    height: 75%;
+    width: 75%;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px
+}
